@@ -1,7 +1,7 @@
-[PLACEHOLDER]
+![banner](https://github.com/PJURC-data-science/travel-insurance/blob/main/media/banner.png)
 
 # Travel Insurance Prediction: Customer Purchase Analysis
-[View Notebook](https://github.com/TuringCollegeSubmissions/pjurci-DS.v2.5.3.1.5/blob/main/Travel%20Insurance.ipynb)
+[View Notebook](https://github.com/PJURC-data-science/travel-insurance/blob/main/Travel%20Insurance.ipynb)
 
 A machine learning analysis to predict customer likelihood of purchasing health-related travel insurance. This study develops a predictive model using customer demographics and travel history to identify potential insurance buyers.
 
